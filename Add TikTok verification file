@@ -1,1 +1,14 @@
-tiktok-developers-site-verification=DCt26WkjhNh5ddxHZ3jSJ1wehdamRMjB
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!-- TikTok Verification (Latest Token) -->
+  <meta name="tiktok-developers-site-verification" content="DCt26WkjhNh5ddxHZ3jSJ1wehdamRMjB" />
+  <title>Livesoon Timer - Legal</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f4f4f4; color: #333; }
+    .container { max-width: 600px; margin: auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
+    a { display: inline-block; margin: 15px; padding: 12px 25px; background: #0066cc; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; }
+    a:hover { background: #0055aa; }
+    h1 { color: #1a1a1a; }
+  </style>
+</head>
